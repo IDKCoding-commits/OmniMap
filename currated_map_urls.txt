@@ -1,0 +1,4 @@
+metroiddread = https://omegametroid.com/wp-content/uploads/2022/02/MetroidDreadMapPNG-1-1.png
+breathofthewild = https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/10071659/Zelda_Breath_of_the_Wild_all_shrines_map_Champions_Ballad_DLC.0.jpg?q=50&fit=crop&w=825&dpr=1.5
+hollowknight = https://preview.redd.it/3jxu5mhr6c051.png?auto=webp&s=3f398437aabfa3e13525bcf33048445499633d15
+silksong = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTokOdL-ptE68WsGwKehnu5y6jWs6KAdj8_Vw&s
