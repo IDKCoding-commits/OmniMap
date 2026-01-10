@@ -1,3 +1,7 @@
+
+ ``` This project uses Crawl4AI (https://github.com/unclecode/crawl4ai) for web data extraction. ```
+
+
 # OmniMap
 
 A small NiceGUI prototype for finding and displaying game maps. Work in progress — UX and map lookup/display are not finished.

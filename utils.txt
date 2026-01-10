@@ -1,3 +1,4 @@
 pillow
 requests
 nicegui
+crawl4ai
